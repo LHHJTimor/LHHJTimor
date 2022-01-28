@@ -1,5 +1,4 @@
-人固有一死
-+
+人固有一死，
 或重于泰山，
 或轻于鸿毛，
 用之所趋异也。
@@ -17,6 +16,7 @@
 断肢体受辱，
 最下腐刑极矣。
 ——司马迁《史记》
+
 
 <!---
 zwrmkmswlbbf/zwrmkmswlbbf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
