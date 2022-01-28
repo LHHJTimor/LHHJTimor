@@ -35,7 +35,8 @@
 
 ——司马迁《史记》
 
-![zwrmkmswlbbf's github stats](https://github-readme-stats.vercel.app/api?
+![Moriafly's github stats](https://github-readme-stats.vercel.app/api?username=zwrmkmswlbbf&count_private=false&show_icons=true&&bg_color=30,165880,169c5a&title_color=fff&text_color=fff)
+
 <!---
 zwrmkmswlbbf/zwrmkmswlbbf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
